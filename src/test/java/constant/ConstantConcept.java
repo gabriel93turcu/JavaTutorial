@@ -15,5 +15,4 @@ public class ConstantConcept {
         //nume = "Bogdan";
         System.out.println(nume);
     }
-
 }
